@@ -15,6 +15,7 @@ body {
   border: none;
   background-color: hsl(0, 0%, 20%);
   color: white;
+  font-family: "Playwrite GB S", serif;
 }
 
 #calculator {
@@ -42,6 +43,7 @@ button {
   font-size: 3rem;
   font-weight: bold;
   cursor: pointer;
+  font-family: "Playwrite GB S", serif;
 }
 
 button:hover {
